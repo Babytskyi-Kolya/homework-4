@@ -161,8 +161,8 @@ address{
     background-color: #2F303A;
     padding: 200px 0;
     margin: 0 auto;
+    background-image: url('./images/backgraund.jpg');
     background: rgba(47, 48, 58, 0.4);
-    background-image: url('/images/backgraund.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
